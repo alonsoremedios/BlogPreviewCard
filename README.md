@@ -14,7 +14,7 @@ Esta es una solución al reto del [Blog preview card en Frontend Mentor](https:/
 
 ## Vista previa
 
-![Captura de pantalla de la solución](mipreview.png)
+![Captura de pantalla de la solución](/mipreview.png)
 
 ---
 
