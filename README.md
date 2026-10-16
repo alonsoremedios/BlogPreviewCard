@@ -21,7 +21,7 @@ Esta es una solución al reto del [Blog preview card en Frontend Mentor](https:/
 ## Enlaces
 
 - **URL de la solución en GitHub:** [Repositorio del proyecto](https://github.com/alonsoremedios/BlogPreviewCard)
-- **Sitio web en vivo (GitHub Pages):** [Ver solución online][https://alonsoremedios.github.io/BlogPreviewCard/](https://alonsoremedios.github.io/BlogPreviewCard/)
+- **Sitio web en vivo (GitHub Pages):** [Ver solución online](https://alonsoremedios.github.io/BlogPreviewCard/)(https://alonsoremedios.github.io/BlogPreviewCard/)
 
 ---
 
